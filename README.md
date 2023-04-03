@@ -1,2 +1,3 @@
-Patrick 16
+### Patrick
+Age: 16
 Learning java
