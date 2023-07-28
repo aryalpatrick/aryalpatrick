@@ -1,5 +1,5 @@
 ###
-<p align="left">I'm Pratik Aryal from Lumbini, Nepal<br>- ⚡ I learn<br> ⚡ I code </p>
+<p align="left">I'm Pratik Aryal from Lumbini, Nepal<br> ⚡ I learn<br> ⚡ I code </p>
 
 ###
 
@@ -47,6 +47,7 @@
 
 ###
 <h3 align="left">🔗Get connected</h3>
+###
 
 <div align="left">
   <a href="https://linkedin.com/in/aryalpatrick" target="_blank">
