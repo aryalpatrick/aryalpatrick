@@ -46,6 +46,7 @@
 </div>
 
 ###
+<h3 align="left">🔗Get connected</h3>
 
 <div align="left">
   <a href="linkedin.com/in/aryalpatrick" target="_blank">
