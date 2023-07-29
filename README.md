@@ -1,5 +1,5 @@
 ###
-<p align="left">I'm Pratik Aryal from Lumbini, Nepal<br> ⚡ I learn<br> ⚡ I code </p>
+<p align="left"><h2>I'm Pratik Aryal from Lumbini, Nepal</h2><br> ⚡ I learn<br> ⚡ I code </p>
 
 ###
 
@@ -7,14 +7,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryalpatrick&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aryalpatrick&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=aryalpatrick&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="188" alt="streak graph"  />
+<!-- </div> -->
+<!-- <div align="left"> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryalpatrick&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="188" alt="languages graph"  />
 </div>
 
 ###
